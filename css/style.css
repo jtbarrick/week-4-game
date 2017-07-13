@@ -1,0 +1,14 @@
+.jumbotron {
+	font-family: 'Kurale', serif;
+	text-align: center;
+}
+
+img {
+	width: 200px;
+}
+
+.col-md-3 {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
